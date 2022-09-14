@@ -21,8 +21,3 @@
  * concat
  */
 
-
-// function isEqual() {
-//
-//
-// }
